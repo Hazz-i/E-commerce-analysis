@@ -1,6 +1,24 @@
 ## Getting Started
 
+# DASHBOARD E-COMMERCE CUSTOMER AND SALES ANALYSIS
+
+Proyek ini adalah dashboard interaktif yang dibangun menggunakan Streamlit, dengan menggunakan
+E-Commerce Public Dataset sebagai sumber data utama. Dataset ini mencakup informasi tentang
+transaksi e-commerce, memberikan wawasan tentang tren dan pola pembelian online di sebuah negara.
+
+Melalui dashboard ini, data divisualisasikan secara menarik untuk memudahkan pemahaman terhadap
+berbagai aspek penjualan e-commerce. Misalnya, pengguna dapat melihat kota dengan jumlah penjual
+terbanyak, kategori produk yang paling populer, serta tren pembelian selama jangka waktu tertentu.
+Fitur interaktif pada dashboard memungkinkan eksplorasi data secara lebih mendalam.
+
+Tujuan dari proyek ini adalah menyediakan dashboard yang informatif dan interaktif, yang membantu
+dalam memahami serta menganalisis informasi dari E-Commerce Public Dataset.
+
 Before run the program, take a look at the following resources:
+
+# 🔗 Application URL
+
+https://e-commerces.streamlit.app/
 
 ## Require
 
@@ -30,7 +48,7 @@ source .venv/scripts/activate
 pip install -r requirements.txt
 ```
 
-runnting notebook :
+running notebook :
 
 ```bash
 jupyter-notebook .
@@ -42,32 +60,3 @@ running dashboard :
 cd dashboard
 streamlit run main.py
 ```
-
-<!-- ## DEMO -->
-
-<!-- <div className="grid gap-2 px-5">
-    <img
-      src="./neko_stream_demo/neko_stream_home.png"
-      alt="HOME"
-    />
-    <img
-      src="./neko_stream_demo/neko_stream_ongoing_all.png"
-      alt="HOME"
-    />
-    <img
-      src="./neko_stream_demo/neko_stream_details.png"
-      alt="HOME"
-    />
-    <img
-      src="./neko_stream_demo/neko_stream_stream.png"
-      alt="HOME"
-    />
-    <img
-      src="./neko_stream_demo/neko_stream_downloads.png"
-      alt="HOME"
-    />
-</div> -->
-
-<!-- ## NOTE -->
-
-<!-- <strong>I made this website just for fun and has no specific purpose.</strong><br/>Before running the BE or FE server, make user all library and your .env or venv have done to setup first. enjoy it ^-^. -->
