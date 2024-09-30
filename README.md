@@ -1,8 +1,8 @@
 ## Getting Started
 
-## Require
+Before run the program, take a look at the following resources:
 
-Before run the serve, take a look at the following resources:
+## Require
 
 - [Python v3.12.4+](https://www.python.org/downloads/) - Python.
 
