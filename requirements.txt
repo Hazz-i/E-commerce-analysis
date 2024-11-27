@@ -18,6 +18,7 @@ click==8.1.7
 colorama==0.4.6
 comm==0.2.2
 contourpy==1.3.1
+cryptography==3.4
 cycler==0.12.1
 debugpy==1.8.9
 decorator==5.1.1
@@ -81,6 +82,7 @@ prompt_toolkit==3.0.48
 protobuf==5.28.3
 psutil==6.1.0
 pure_eval==0.2.3
+pyarrow==18.1.0
 pycparser==2.22
 pydeck==0.9.1
 Pygments==2.18.0
@@ -98,8 +100,10 @@ rfc3986-validator==0.1.1
 rich==13.9.4
 rpds-py==0.21.0
 seaborn==0.13.2
+semantic-version==2.10.0
 Send2Trash==1.8.3
 setuptools==75.6.0
+setuptools-rust==1.10.2
 six==1.16.0
 smmap==5.0.1
 sniffio==1.3.1
