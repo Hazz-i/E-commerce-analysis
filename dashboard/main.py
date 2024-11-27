@@ -83,6 +83,7 @@ with t2:
         ax.set_ylabel('Number of orders', fontsize=12)
 
         # Display the chart
+        ax.tick_params(axis='x', rotation=45)
         st.pyplot(fig)
 
     # Expander for interpretations
